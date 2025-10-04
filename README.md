@@ -5,7 +5,7 @@ idm, idm-extension, ekstensi-browser, chrome, firefox, windows, batch-script, in
 
 ![Menu IDM Extension Manager](https://raw.githubusercontent.com/r3ndycom/idm-extension-manager-windows/main/screenshot-menu.png)
 
-# 📦 IDM Extension Manager (v1.5 Terbaru)
+# 📦 IDM Extension Manager (v1.6 Terbaru)
 
 **Pasang & hapus ekstensi IDM secara otomatis di semua browser populer hanya dengan satu klik.**
 
@@ -44,9 +44,9 @@ idm, idm-extension, ekstensi-browser, chrome, firefox, windows, batch-script, in
 
 ---
 
-## 🆕 Pembaruan Versi 1.5
+## 🆕 Pembaruan Versi 1.6
 
-- ✅ Dukungan Firefox `.xpi`
+- ✅ Penambahan dukungan Firefox (otomatis unduh & pasang)
 - ✅ Fix deteksi ganda Opera GX
 - ✅ Cek koneksi internet
 - ✅ Jalankan sebagai Admin otomatis
