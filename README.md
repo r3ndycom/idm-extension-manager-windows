@@ -79,6 +79,6 @@ MIT – Bebas digunakan secara pribadi maupun komersial. Jangan dijual kembali. 
 ## 👤 Pembuat
 
 Dikembangkan oleh [r3ndy.com](https://r3ndy.com)  
-Punya saran, bug, atau ingin berkontribusi? [Laporkan di sini](https://github.com/your-repo/issues)
+Punya saran, bug, atau ingin berkontribusi? [Laporkan di sini]([https://github.com/your-repo/issues](https://github.com/r3ndycom/idm-extension-manager-windows/issues))
 
 
